@@ -3,18 +3,18 @@ NodeBuldier.js is a system that makes it easy to make different releases of the 
 
 You can use it like this:
 ```
-npm builder chrome-v3
+npm builder chrome
 ```
 Witch will give a build of the product as a chrome extension and placed at the default path.
 
 ## Setup NodeBuldier.js
-
- 
+> otherfiles...
 > builder/
-> > chrome-v3
-> > firefox-v3
-> > edge-v3
+> > chrome
+> > firefox
+> > edge
+> otherfiles...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzc2MjExOTksMTc2ODY0ODk3Myw4MT
-Q1MDg2NzddfQ==
+eyJoaXN0b3J5IjpbMjUyMjE3NDQ1LDE3Njg2NDg5NzMsODE0NT
+A4Njc3XX0=
 -->
