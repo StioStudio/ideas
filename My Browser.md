@@ -5,7 +5,7 @@ Some settings I thought of:
 
  - Move anything anywhere. This means that everything is their own component and can be placed anywhere on the window. Options like anchor will be needed for this, so that you can anchor a component to something. If you move this something the component will move with it. It will too hide if the something hide. (Makes it possible for popups and etc.
  - Extensions
- - Userscripts/userstyles 
+ - Ability to make your own user-scripts and user-styles. These are NOT limited to webpages. You can make your own components that run these when clicked, holde, duble
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3MzIyNDgzXX0=
+eyJoaXN0b3J5IjpbLTIwMTU4NjMzNl19
 -->
