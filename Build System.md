@@ -8,13 +8,17 @@ npm builder chrome
 Witch will give a build of the product as a chrome extension and placed at the default path.
 
 ## Setup NodeBuldier.js
+This is an example for how Aioewa would use it:
 > otherfiles...
 > builder/
 > > chrome
 > > firefox
-> > edge
+> > edge 
+> 
 > otherfiles...
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUyMjE3NDQ1LDE3Njg2NDg5NzMsODE0NT
-A4Njc3XX0=
+eyJoaXN0b3J5IjpbLTE0NDE2Mzg2NTQsMTc2ODY0ODk3Myw4MT
+Q1MDg2NzddfQ==
 -->
