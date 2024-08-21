@@ -7,7 +7,8 @@ Some settings I thought of:
  - Extensions
  - Ability to make your own user-scripts and user-styles. These are NOT limited to webpages. You can make your own components that run these when clicked, holde, double-clicked and etc.
  - APIs. You can make your won APIs. These can be used in your js or css for the places you want them to be accessible.
- - 
+ - Shortcuts
+ - You can change already made components and stuff. You can too use them as template for newer things. Example 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyMDU0NDkzMV19
+eyJoaXN0b3J5IjpbLTE5ODk2MTUyMDEsMTIyMDU0NDkzMV19
 -->
