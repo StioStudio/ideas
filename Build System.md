@@ -5,9 +5,11 @@ You can use it like this:
 ```
 npm builder chrome-v3
 ```
-Witch will give a build of the product as an chrome extension and place it at the default path.
+Witch will give a build of the product as a chrome extension and placed at the default path.
+
+Setup NodeBuldier.js:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE0NTA4Njc3XX0=
+eyJoaXN0b3J5IjpbMTc2ODY0ODk3Myw4MTQ1MDg2NzddfQ==
 -->
