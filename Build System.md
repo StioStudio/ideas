@@ -9,13 +9,12 @@ Witch will give a build of the product as a chrome extension and placed at the d
 
 ## Setup NodeBuldier.js
 
-```json
-{
-	"name": "Aioewa",
-	
-}
-```
+ 
+> builder/
+> > chrome-v3
+> > firefox-v3
+> > edge-v3
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjI2ODk4NzAsMTc2ODY0ODk3Myw4MT
+eyJoaXN0b3J5IjpbLTIxMzc2MjExOTksMTc2ODY0ODk3Myw4MT
 Q1MDg2NzddfQ==
 -->
