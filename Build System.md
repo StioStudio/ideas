@@ -1,5 +1,5 @@
 # Build System
-Node
+NodeBuldier.js is a system that makes it easy to make different relazes of the product. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDc0Njg5NjZdfQ==
+eyJoaXN0b3J5IjpbLTQ1Nzc4MDI0MF19
 -->
