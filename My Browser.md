@@ -9,7 +9,7 @@ Some settings I thought of:
  - APIs. You can make your won APIs. These can be used in your js or css for the places you want them to be accessible.
  - Shortcuts
  - You can change already made components and stuff. You can too use them as template for newer things. Example a user profile popup, for your user. You can copy and paste this and make your own little user options. 
- - The only thing that always will NEED
+ - The only thing that ALWAYS be accessible is edit. Edit is the thing that lets you change script/components, delete and make new ones. This can
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2NDc1MjY4NCwxMjIwNTQ0OTMxXX0=
+eyJoaXN0b3J5IjpbODc3MTY3ODc1LDEyMjA1NDQ5MzFdfQ==
 -->
