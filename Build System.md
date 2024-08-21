@@ -8,8 +8,13 @@ npm builder chrome-v3
 Witch will give a build of the product as a chrome extension and placed at the default path.
 
 Setup NodeBuldier.js:
-
-
+```json
+{
+	"name": "Aioewa",
+	
+}
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2ODY0ODk3Myw4MTQ1MDg2NzddfQ==
+eyJoaXN0b3J5IjpbLTE1NTI3Mzg5NiwxNzY4NjQ4OTczLDgxND
+UwODY3N119
 -->
