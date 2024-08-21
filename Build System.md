@@ -5,7 +5,9 @@ You can use it like this:
 ```
 npm builder chrome-v3
 ```
-Witch will give a build of the producta
+Witch will give a build of the product as an chrome extension and place it at the default path.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzOTk3NjYwMV19
+eyJoaXN0b3J5IjpbODE0NTA4Njc3XX0=
 -->
